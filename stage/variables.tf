@@ -60,11 +60,11 @@ variable "client_defaults"{
 
 variable "access-id" {
   type = "string"
-  default = "AKIAJBQA2MPP4FS6LTOA"
+  default = "xxx"
 
 }
 
 variable "access-key"{
   type = "string"
-  default = "FQZw0f5m2NJCQMWq97F30mICFpjPDidv8/aPlLTi"
+  default = "xxx"
 }
